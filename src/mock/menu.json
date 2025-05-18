@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Плов",
+    "description": "Сочный узбекский плов с морковью и бараниной",
+    "price": 2500,
+    "category": "Основное",
+    "imageUrl": "https://yandex-images.clstorage.net/4Hrue7235/08e693DgpN/7ddkuIwh1tbZSZ_sg1FC6qmQHU8-AlzJG8uV3g8fWfWVKUrbxOBNN-Vmb32eAzK_wx2YulAhzhBOWD_YZlQdX6uVO_STcJWGzE2Pq4JxefHigBtJLjh7pjTsvr46M2qRvjRKmpKyDSq3KgUN3Hpu_od1xa8OQf09DHQRp2IFHHvs6T_a1DfWz-R5j-jjaHPgxaUIcjQlboQC3YOpKQ9FjKMmZoabsyFjlTkCBa1cecC6X-qPBnrvPhN8GK91HzZR-dwW3tQR2ef0Tonw9G9z6M-5BXc5A2uNMeatpDkUZo6nJmGfhrYaa6kDAB6RekHOkGT7uxJe3BUpUy6ecyI9U9TqH_b7L9nE60Gv2_19VNXkuSxPEglHjiDIraM_NHSIkg9IhqamL3W0JxQhk15u_5Zu5p4wQP8gHFIsjFc-OlvO5S3k7CraweJSoefFd0zdwacFexMrbrQN_JG0PhB7jbMYf5imnRZCkyA7P45qQM-7UuWVFWfPCytuIaNMAxNp_vEO3cohz83gQaj-4VtD6_e7MGIeIWyoGuOuvC4QeJyxHXOTlaEwdow-MAWvU3HGo2fisxFW-gsOWj2GaQI6StL8MfHtGs3ixUG4095ldfX2oxJFAiFSkA_2kKk6HUixnAdFjo-UG2y4KBI8pXNg3pZtzLokfdY4Enwdv34LB2Da5hTf5C_V8eJJhPbaaF7V6ZEoRxweVJMG6oC5CjthqqILTpuwliFArSMQM41VWMCEfdyREWn4PDF_CL5zMDpv1soQ3u8a8vTpYbTT2mV-6MysPlk_MkaNDdyCvCADQ7qmJ12krpIwSYsTOwusQkb8jUr8lytAxh8pRz-ARigude3KLvHKKdXT9FCHzelxV_7iixNnPT9ilRHHuLckCGWQvidFkoG-PHCtFis_r2JE6b996rsVefUIDE8OqHILDmDz7i7FwCjBw-RqmsbYdU_Uw4w5cRs_Zowx5ruXIT8"
+  },
+  {
+    "id": 2,
+    "name": "Салат Цезарь",
+    "description": "Классический салат с курицей, пармезаном и сухариками",
+    "price": 1800,
+    "category": "Салаты",
+    "imageUrl": "https://yandex-images.clstorage.net/4Hrue7235/08e693DgpN/7ddkuIwh1tbZSZ_sg1FC6qmQHU8-AlzJG8uV3g8fWfWDPVmVgPoFdrM0LzGIQSS-xxab7FIog0AbDWnbNFZPAajBbKDBc5iOnk3brpoMRKDh0R4QblQShBDL1N4lJUW9mSpDgKmINEWeDxUAtXVCxYxEwLsEaIIZAGIGy0wDC0vNzy748hHvweRgofnOXmToyogxVi0RXK4kzJa_PC9Umrw5eJq0nRZzrzICE4laX9ieaNyyBUTLOxNlDrpqFDV25-AO8MkD7N7saanu1HRO_f-hNVYLHnS-E8qOqDsvXJCgNH2XkpgfQJQcDwOSeV3cnm_FrwB_wwcpZxWGTCw7XNzxOuTtMMfkw1-Y6Ol_TNDJqB15NR5XoRzspaEpCGG7oB1FvJi0HFG6HAgFsmtb6bdG3I8QSt0aDXMqhGgDClrW7B_G8xPy0cJdisz1eETKxpoPbjAdUqgP4pmZIxBpnr40cb26nSZ8jiAfBJZkXsigccKPK3PqPQpcNJlcLTp36u8U49Qj2eb-UKXXyFF2-tK5Nkg7CF6qHOuAvQ8fX6iiAWiwsJ86a5EfFxSWZ0_KpX3JvBdV3iIUVw64ZRwzb9_oMuflFtnDykyA8sl4VdbfhhpvAApxjxz7rYIxKUGpuiNPrLChAn6EIQIAm1di579L1KYifsQWAnU3skUNK1rVxjvSzjrq3-xsueXARX_exaM0ZjUSYqgUx4iGPAJhtogZTbKPpwF3mDESML1-edmzQMGZIEToAwl3OJpjNTVIxdYQ59oU7vzvebjo-3hw0umnNW0ANWejPPethjEiXJO1D1ORo7UffK4zFxqFXGndn1P-hyRV4SU5XAC7dCsJQfL2Ft3zKs3k106G3eNsaunpmRpIMxJAvg3Es7UlC0q9kiJtk66RB2C1CRwejnpDxZ9LyKgIWdgDPEw0uFQpHHPF4Drjyhnawd9_runATH_3zZkuQjIGUK432biEIRM"
+  },
+  {
+    "id": 3,
+    "name": "Шашлык",
+    "description": "Маринованный шашлык из говядины, приготовленный на углях",
+    "price": 3000,
+    "category": "Основное",
+    "imageUrl": "https://img.novosti-n.org/upload/ukraine/281093.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Окрошка",
+    "description": "Летний суп на кефире с овощами и мясом",
+    "price": 1400,
+    "category": "Супы",
+    "imageUrl": "https://poshagovie-recepti.ru/files/styles/views_recipe_osnovnoe_foto/public/images/mainphoto/bf54ece3.jpg?itok=4tt3UqrP"
+  },
+  {
+    "id": 5,
+    "name": "Борщ",
+    "description": "Традиционный борщ с говядиной, капустой и сметаной",
+    "price": 1600,
+    "category": "Супы",
+    "imageUrl": "https://mangalrestaurant.md/wp-content/uploads/2022/06/bor--400x300.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Чизкейк",
+    "description": "Нежный чизкейк с клубничным соусом",
+    "price": 1300,
+    "category": "Десерты",
+    "imageUrl": "https://avatars.mds.yandex.net/get-eda/3807631/0b1a06703796427a9795b9aae7c7645e/M_height"
+  },
+  {
+    "id": 7,
+    "name": "Тирамису",
+    "description": "Классический итальянский десерт с маскарпоне и кофе",
+    "price": 1500,
+    "category": "Десерты",
+    "imageUrl": "https://vosmarket.ru/uploads/posts/2019-07/thumbs/1562440001_vosmarket_ru-tiramisu-0.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Айран",
+    "description": "Освежающий кисломолочный напиток",
+    "price": 700,
+    "category": "Напитки",
+    "imageUrl": "https://avatars.mds.yandex.net/get-eda/3541746/fcadc87ad620407888398db2acd4bfe4/M_height"
+  },
+  {
+    "id": 9,
+    "name": "Лимонад",
+    "description": "Домашний лимонад с мятой и лимоном",
+    "price": 900,
+    "category": "Напитки",
+    "imageUrl": "https://avatars.mds.yandex.net/get-eda/3770794/46ac07838dbc40f6872ac5a0675f66a1/M_height"
+  },
+  {
+    "id": 10,
+    "name": "Мясной рулет",
+    "description": "Пикантный мясной рулет с сыром и зеленью",
+    "price": 3200,
+    "category": "Основное",
+    "imageUrl": "https://yandex-images.clstorage.net/4Hrue7235/08e693SVFY/68Uq9tEzjtrJW8PmzFJC_P_HEkQuSE3YHMrck19JGO-RfhqRl7RENu41a2WZAWrqkRCW71B2zkJNXDvGMFVGDqmcbLrKLcHQyFvA68VJS_v0zx1MKlxK2kSdvq4pO2-Hvx9is7-ZDGWyND8q0llx1KoF5roUYvwZClIIuksQN3HRwj314THt1uBfmunVdXf78KcodCMlaJMmwKO7Cw1euqgMXpyihB5Jrj0-Bpt7YtOidMCtKl_WNipaM6hIDz942dUn38sk2P_kX7zm_WVA_eiwL3QrL3SeI82FvgI-ZZSlHEW_oIAeTrcgOz2TR1jRuUjmlSR17SceThebYzUQTujTGtTJCe72zHCC5t56T9vDuT1TFgR0txvmj5IBL0uUohplraa1N2euACsIjVp8xYZKwroVc-c6O2wJuFYAEUz69wbTwRPhxN5nh-Xbc1zV_4E3Sx4hap4v5627OwJ_qLUbQaKjlCBQsAAQMbp9e-qYV_aUJV7bOTBJLoh9Ny1B1ew7-vMj9efnQYzw13FP3OalG0QoF3arNuqnuScVYJe9C0GhspYlXLszLBeOYmXhonbPpSxG7j4WTR-9fRIZXfDJOtPQD_jYy2a38vhUT8zLmiVyNhZuiRH2p4cfAHWpqB9MkZ-7P2qmKRk8lFZzw5t877Q0c-QQH3g0kU4OP33J3jPu-gfi_eVvgurrc0fw7p4oWRYJXLMT6JiBHAlpubgvariEhTNhsxYbBrhDeMGUVMmMKmH0ADRNIL9KLTxoyNMI0_ULzvnkZLfN7nhvwMueJXkrLGGlDcu0kwICX7u9BVKalIEfcowIHxexZUjqrHXekhZowyAydwmBaTUEX_bmEMfvMM7Hy0GE6sllXvPVrTFQPQJGiDPJubcaHkSBtgFZvL6ZH2q6JzMbiENN-ph2_pADWvQ2Hkkwsn4QDG7e0jPn-i7qx_9Lhf7ZdWTu3pw1SBcjQaIl77mzAz4"
+  }
+]
