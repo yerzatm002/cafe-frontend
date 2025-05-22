@@ -1,6 +1,7 @@
 // src/pages/Home.jsx
 import { Box, Typography, Button, Grid, Container, useTheme } from '@mui/material'
 import { useState, useEffect } from 'react'
+import { Link } from 'react-router-dom'
 
 const sliderImages = [
   'https://flynet.travel/wp-content/uploads/2019/05/Bennelong_Gallery_The-beautiful-interior-of-Bennelong-restaurant-with-spectacual-city-views-of-Sydney_1600x900-8.jpg',
@@ -80,16 +81,19 @@ const Home = () => {
             <Button
               variant="contained"
               size="large"
-              href="/menu"
+              component={Link}
+              to="/menu"
               sx={{ mr: 2, px: 4, py: 1.5, fontWeight: 600 }}
               color="secondary"
             >
               Смотреть меню
             </Button>
+
             <Button
               variant="outlined"
               size="large"
-              href="/booking"
+              component={Link}
+              to="/booking"
               sx={{
                 px: 4,
                 py: 1.5,
